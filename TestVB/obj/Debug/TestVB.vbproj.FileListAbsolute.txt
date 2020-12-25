@@ -1,0 +1,20 @@
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\bin\Debug\TestVB.exe.config
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\bin\Debug\TestVB.exe
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\bin\Debug\TestVB.pdb
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\bin\Debug\TestVB.xml
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\obj\Debug\TestVB.Form1.resources
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\obj\Debug\TestVB.Resources.resources
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\obj\Debug\TestVB.vbproj.GenerateResource.Cache
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\obj\Debug\TestVB.exe
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\obj\Debug\TestVB.xml
+C:\Users\markerz99\AppData\Local\Temporary Projects\TestVB\obj\Debug\TestVB.pdb
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\bin\Debug\TestVB.exe.config
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\obj\Debug\TestVB.exe
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\obj\Debug\TestVB.xml
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\obj\Debug\TestVB.pdb
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\bin\Debug\TestVB.exe
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\bin\Debug\TestVB.pdb
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\bin\Debug\TestVB.xml
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\obj\Debug\TestVB.Form1.resources
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\obj\Debug\TestVB.Resources.resources
+C:\Users\markerz99\Documents\Visual Studio 2012\Projects\TestVB\TestVB\obj\Debug\TestVB.vbproj.GenerateResource.Cache
